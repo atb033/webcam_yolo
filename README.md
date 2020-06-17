@@ -10,7 +10,7 @@ This repository contains a dockerized, ROS implementation of YOLO
 - Build docker image
 
 ```Dockerfile
-docker build -f Dockerfile -t webcam_yolo
+docker build -f Dockerfile -t webcam_yolo .
 ```
 
 ### To run the docker container
